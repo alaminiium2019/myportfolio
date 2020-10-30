@@ -1,0 +1,10 @@
+.about-part{
+    margin-bottom: 50px;
+    width: 60%;
+    padding: 50px;
+}
+.aboutbg{
+    background: url('../../../images/AboutBg.jpg');
+    background-size: cover;
+    
+}

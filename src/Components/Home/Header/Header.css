@@ -1,0 +1,14 @@
+.headerBg{
+    background: url('../../../images//headerBg.jpg');
+    opacity: 0.6;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #131921;
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+}
